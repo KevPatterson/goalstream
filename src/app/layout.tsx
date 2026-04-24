@@ -8,8 +8,8 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Next.js with Tailwind CSS',
-  description: 'A boilerplate project with Next.js and Tailwind CSS',
+  title: 'GoalStream - Fútbol en Vivo',
+  description: 'Plataforma de streaming de fútbol en vivo con interfaz estilo terminal',
   icons: {
     icon: [
       { url: '/favicon.ico', type: 'image/x-icon' }
